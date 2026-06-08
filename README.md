@@ -190,11 +190,11 @@ Sementara itu, aspek Empathy dan Reliability terbukti menjadi faktor yang paling
 
 ### Distribusi Sentimen Pelanggan per Aspek
 
-(Tambahkan visualisasi sentimen)
+![Distribusi Sentimen Pelanggan](visualisasi/sentiment-distribution.png)
 
 ### Korelasi Aspek terhadap Rating Pelanggan
 
-(Tambahkan heatmap korelasi)
+![Korelasi Aspek](visualisasi/correlation_heatmap.png)
 
 ---
 
